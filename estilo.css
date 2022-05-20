@@ -1,0 +1,35 @@
+.img{
+    width: 200px;
+    height: 200px;
+}
+
+.logo{
+	display: flex;
+	justify-content: center;
+}
+.logopng{
+	width: 225px;
+	height: 225px;
+}
+
+.bordero{
+    border: 3px solid black !important;
+}
+
+.rrss{
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+.bi{
+	width: 60px;
+	height: 40px;	
+}
+
+.padd{
+	padding-bottom: 30px;
+}
+
+.log{
+    color: black;
+}

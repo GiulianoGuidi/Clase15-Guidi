@@ -1,0 +1,15 @@
+[
+    {"id": 1, "categoria":"salado", "nombre":"Pan de campo", "precio": 410, "img": "/assets/img/pandecampo.jpg"},
+    {"id": 2, "categoria":"salado", "nombre":"Pan multicereal", "precio": 410, "img":"/assets/img/multi.jpg"},
+    {"id": 3, "categoria":"salado", "nombre":"Pan de centeno", "precio": 410, "img":"/assets/img/pancenteno.jpg"},
+    {"id": 4, "categoria":"salado", "nombre":"Chipa x 1/4", "precio": 410, "img":"/assets/img/chipa.jpg"},
+    {"id": 5, "categoria":"dulce", "nombre":"Medialuna", "precio": 410, "img":"/assets/img/medialu.jpg"},
+    {"id": 6, "categoria":"dulce", "nombre":"Croissant", "precio": 410, "img":"/assets/img/croissant.jpg"},
+    {"id": 7, "categoria":"dulce", "nombre":"Alfajor de maicena", "precio": 410, "img":"/assets/img/alfajor.jpg"},
+    {"id": 8, "categoria":"dulce", "nombre":"Porcion de torta", "precio": 410, "img":"/assets/img/torta.jpg"},
+    {"id": 9, "categoria":"pizza", "nombre":"Pizza mozzarella", "precio": 410, "img":"/assets/img/pizzamusa.jpg"},
+    {"id": 10, "categoria":"pizza", "nombre":"Pizza cuatro quesos", "precio": 410, "img":"/assets/img/pizza4quesos.jpg"},
+    {"id": 11, "categoria":"pizza", "nombre":"Pizza peperonni", "precio": 410, "img":"/assets/img/pizzapepe.jpg"},
+    {"id": 12, "categoria":"pizza", "nombre":"Pizza margarita", "precio": 410, "img":"/assets/img/pizzamarga.jpeg"}
+    
+] 
